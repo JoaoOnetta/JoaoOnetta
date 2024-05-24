@@ -6,7 +6,13 @@
 
 **17 ANOS**
 
+**NOVA LARANJEIRAS**
+
 **TERCEIRÃO 2024**
+
+**TORNANDO-SE MELHOR A CADA DIA QUE PASSA**
+
+**FUTURO ENGENHEIRO AGRÔNOMO**
 
 
                                      
