@@ -1,15 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=WELCOME!!&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!!,+meu+nome+é+João+Felipe+Onetta;Tenho+17+anos;Moro+em+Nova+Laranjeiras,+PR;Estudo+no+Colégio+Estadual+Rui+Barbosa+;sejam+BEM+VINDOS!!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!!,+sejam+bem+vindos+ao+meu+perfil+do+GitHub!;meu+nome+é+João+Felipe+Onetta,;tenho+17+anos,;moro+em+Nova+Laranjeiras-PR,;estudo+no+Colégio+Estadual+Rui+Barbosa,;estou+cursando+o+3°+ano+do+Ensino+Médio;e+pretendo+me+formar+em+Agronomia!!...;AGRADEÇO+SUA+PRESENÇA!++:%29)](https://git.io/typing-svg)
 
 ##
 
-**🧑🏼‍🎓Terceirão 2024🧑🏼‍🎓**
-
 **⚡️Buscando ser melhor a cada dia que passa!⚡️**
-
-**🌱Futuro Engenheiro Agrônomo🌱**
-
 ##
 
 <div align="center">  
