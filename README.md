@@ -1,16 +1,18 @@
-## Hi there 👋
+**<h1 align="center"> 🔥Bem vindo ao perfil do João!!🔥</h1>**
 
-<!--
-**JoaoOnetta/JoaoOnetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**<h2 align="center"> Colégio Estadual Rui Barbosa</h2>**
 
-Here are some ideas to get you started:
+**JOÃO FELIPE ONETTA**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**17 ANOS**
+
+**TERCEIRÃO 2024**
+
+
+                                     
+                                     
+
+
+                                       
+
+ 
